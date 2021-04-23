@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+.commonfont {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;  
+    text-align: center;  
+}
+#header {
+    font-size: 50px;
+}
+
+#main {
+    font-size: 42px;
+}
+
+#actualcontent {
+    font-size: 21px;
+    color: gray !important;
+}
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#footer {
+    color: gray;
+    text-align: right;
+    font-size: 30px;
+}
