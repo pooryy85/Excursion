@@ -31,3 +31,11 @@ body {
     text-align: right;
     font-size: 30px;
 }
+
+img,video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
